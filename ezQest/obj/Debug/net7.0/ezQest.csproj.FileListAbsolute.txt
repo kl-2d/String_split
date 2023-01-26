@@ -1,0 +1,15 @@
+C:\Users\kl2d\nyProj\ezQest\bin\Debug\net7.0\ezQest.exe
+C:\Users\kl2d\nyProj\ezQest\bin\Debug\net7.0\ezQest.deps.json
+C:\Users\kl2d\nyProj\ezQest\bin\Debug\net7.0\ezQest.runtimeconfig.json
+C:\Users\kl2d\nyProj\ezQest\bin\Debug\net7.0\ezQest.dll
+C:\Users\kl2d\nyProj\ezQest\bin\Debug\net7.0\ezQest.pdb
+C:\Users\kl2d\nyProj\ezQest\obj\Debug\net7.0\ezQest.csproj.AssemblyReference.cache
+C:\Users\kl2d\nyProj\ezQest\obj\Debug\net7.0\ezQest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kl2d\nyProj\ezQest\obj\Debug\net7.0\ezQest.AssemblyInfoInputs.cache
+C:\Users\kl2d\nyProj\ezQest\obj\Debug\net7.0\ezQest.AssemblyInfo.cs
+C:\Users\kl2d\nyProj\ezQest\obj\Debug\net7.0\ezQest.csproj.CoreCompileInputs.cache
+C:\Users\kl2d\nyProj\ezQest\obj\Debug\net7.0\ezQest.dll
+C:\Users\kl2d\nyProj\ezQest\obj\Debug\net7.0\refint\ezQest.dll
+C:\Users\kl2d\nyProj\ezQest\obj\Debug\net7.0\ezQest.pdb
+C:\Users\kl2d\nyProj\ezQest\obj\Debug\net7.0\ezQest.genruntimeconfig.cache
+C:\Users\kl2d\nyProj\ezQest\obj\Debug\net7.0\ref\ezQest.dll
